@@ -1,5 +1,5 @@
    # Web
-   
+    web static
  
  
  
