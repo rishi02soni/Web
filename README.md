@@ -1,7 +1,7 @@
    # Web
           web static
    
-    
+     
           Full 
  
   
